@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Marcellus&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css');
+
+:root {
+  --azulclaro: #83e8f8;
+  --azuloscuro: #1a70bb;
+  --azulnegro: #2b2f41;
+  --negro: #242323;
+  --negro2: #000;
+  --gris: #919292;
+  --fondo: #ffffff;
+  --verdeazul: #2d8592;
+  --Magenta: #b62a67;
+  --blanco: #fff;
+  --degradado: linear-gradient(49.54deg, #4e90ca 2.89%, #103555 80.34%);
+}
+
+*{
+    margin:0;
+}
+body{
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+}
+h1,h2,h3,h4,h5{
+    font-family: 'Marcellus', serif;
+}    
